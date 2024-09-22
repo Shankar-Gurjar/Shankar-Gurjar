@@ -122,7 +122,7 @@ The following links include detailed descriptions within each GitHub repository:
 
 | 🚀 [Customer Segmentation using K-Means Clustering](https://github.com/Shankar-Gurjar/Customer_Segmentation))| 👨🏻‍💻 [Recommender System](https://github.com/Shankar-Gurjar/Movie-Recommendation-on-IMDB-Dataset)| 
 | :-:| :-:| 
-| [<img src = "https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning/blob/main/images/cover%20page.jpg" width = 500 height = 300/>](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning)| [<img src = "https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM/blob/main/source/cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)
+| [<img src = "project1.png" width = 500 height = 300/>](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning)| [<img src = "https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM/blob/main/source/cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)
 
 | 🏭 [World-Development-Indicators-Co2-Emission-Vs-GDP](https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP)| [☎️ __Telco Customer Churn Prediction__](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
 | :-:| :-:| 
