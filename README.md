@@ -124,9 +124,9 @@ The following links include detailed descriptions within each GitHub repository:
 | :-:| :-:| 
 | [<img src = "project1.png" width = 500 height = 300/>](https://github.com/Shankar-Gurjar/Customer_Segmentation)| [<img src = "recommend.png" width = 500 height = 300/>](https://github.com/Shankar-Gurjar/Movie-Recommendation-on-IMDB-Dataset)
 
-| 🏭 [Credit Card Fraud Detaction using machine learning ](https://github.com/Shankar-Gurjar/Fraud-Detection)| [☎️ __Telco Customer Churn Prediction__](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
+| 🏭 [Credit Card Fraud Detaction using machine learning ](https://github.com/Shankar-Gurjar/Fraud-Detection)| [☎️ _Diabetes Prediction- Using Random forest__](https://github.com/Shankar-Gurjar/Diabetes_Prediction)|
 | :-:| :-:| 
-| [<img src = "https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP/blob/main/images/main%20image.png" width = 500 height = 300/>](https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP)| [<img src = "https://github.com/sujikathir/Telco-Customer-Churn-Prediction/blob/main/Images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
+| [<img src = "fraud.png" width = 500 height = 300/>](https://github.com/Shankar-Gurjar/Fraud-Detection)| [<img src = "https://github.com/sujikathir/Telco-Customer-Churn-Prediction/blob/main/Images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
 
 <hr style="border:0.01px solid blue">
 
