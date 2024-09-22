@@ -66,52 +66,117 @@ I have a strong practical and theoretical experience in the development of Large
 
 # 🪚🔧 My Skills 😀😀:
 
-These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
 
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />        
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" />  
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />            
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
-<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+Programming Languages
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />Python</a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" />R</a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/Azure SQL Managed Instance.svg" width="54" height="40" alt="SQL" />SQL</a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-java.svg" width="44" height="44" alt="Java" />Java</a>
+</p>
+
+Databases
+<p align="left">
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/mysql-official.svg" width="36" height="36" alt="MySQL" />MySQL</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />MongoDB</a>
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/snowflake-icon.svg" width="36" height="36" alt="SnowFlake" />SnowFlake</a>
+</p>
+
+Python Frameworks for Data Science
+<p align="left">
+<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-numpy.svg" width="36" height="36" alt="Numpy" />Numpy</a>
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-pandas.svg" width="36" height="36" alt="Pandas" />Pandas</a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-tensorflow.svg" width="36" height="36" alt="Tensorflow" />Tensorflow</a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/scikit-learn-seeklogo.com.svg" width="36" height="36" alt="Scikit-Learn" />Sklearn</a>
+<a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/pytorch-icon.svg" width="36" height="36" alt="PyTorch" />PyTorch</a>
+<a href="https://www.dask.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/dask_icon.svg" width="36" height="36" alt="Dask" />Dask</a>
+<a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-opencv.svg" width="36" height="36" alt="OpenCV" />OpenCV</a>
+<a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/Matplotlib_icon.svg.png" width="36" height="36" alt="Matplotlib" />Matplotlib</a>
+<a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/seaborn.svg" width="36" height="36" alt="Seaborn" />Seaborn</a>
+</p>
+
+Toolkits/Frameworks
+<p align="left">
+<a href="https://airflow.apache.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/airflow.svg" width="36" height="36" alt="Apache Airflow" />Apache Airflow</a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/apache_kafka-icon.svg" width="36" height="36" alt="Apache Kafka" />Apache Kafka</a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/docker-tile.svg" width="36" height="36" alt="Docker" />Docker</a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-amazon-web-services.svg" width="36" height="36" alt="Amazon Web Services" />Amazon Web Services</a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-git.svg" width="36" height="36" alt="Git" />Git</a>
+<a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-tableau-software.svg" width="36" height="36" alt="Tableau" />Tableau</a>
+</p>
+
+Data Engineering
+<p align="left">
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-selenium.svg" width="36" height="36" alt="Selenium" />Selenium</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-bash.svg" width="36" height="36" alt="Shell Scripting" />Shell Scripting</a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-web-scraper.svg" width="36" height="36" alt="Web Scraping" />Web Scraping</a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-statistics-96.png" width="36" height="36" alt="Data Analysis" />Data Analysis</a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/data wragling.png" width="36" height="36" alt="Data Wrangling" />Data Wrangling</a>
+</p>
 
 
 
+# 🖥 My Machine Learning Projects 
+
+The following links include detailed descriptions within each GitHub repository:
+
+| 🚀 [Customer Segmentation using K-Means Clustering](https://github.com/Shankar-Gurjar/Customer_Segmentation))| 👨🏻‍💻 [Recommender System](https://github.com/Shankar-Gurjar/Movie-Recommendation-on-IMDB-Dataset)| 
+| :-:| :-:| 
+| [<img src = "https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning/blob/main/images/cover%20page.jpg" width = 500 height = 300/>](https://github.com/sujikathir/Predicting-Startup-outcomes-with-XGBoost-and-Machine-Learning)| [<img src = "https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM/blob/main/source/cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/HR-Job-Market-Analysis-using-Light-GBM)
+
+| 🏭 [World-Development-Indicators-Co2-Emission-Vs-GDP](https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP)| [☎️ __Telco Customer Churn Prediction__](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
+| :-:| :-:| 
+| [<img src = "https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP/blob/main/images/main%20image.png" width = 500 height = 300/>](https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP)| [<img src = "https://github.com/sujikathir/Telco-Customer-Churn-Prediction/blob/main/Images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
+
+<hr style="border:0.01px solid blue">
 
 
 
+<h2 align = "center"> 🖥 My Generative AI Projects </h2> 
 
+| ⛁ [AI-driven-Chatbot-for-question-answering](https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/tree/main) | [Text-to-SQL-LLM-App-for-Quering-SQL](https://github.com/sujikathir/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro) | 
+| :-:| :-:| 
+[<img src = "https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/blob/main/source/cover%20page.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/tree/main)| [<img src="https://github.com/sujikathir/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro) |
 
+| ⛁ [News-Reporter-AI-Agent-Using-CrewAI](https://github.com/sujikathir/News-Reporter-AI-Agent-Using-CrewAI) | [Finetuning-With-Custom-Data](https://github.com/sujikathir/Finetuning-With-Custom-Data-Using-Google-Gemma) | 
+| :-:| :-:| 
+[<img src = "https://github.com/sujikathir/News-Reporter-AI-Agent-Using-CrewAI/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/News-Reporter-AI-Agent-Using-CrewAI)| [<img src="https://github.com/sujikathir/Finetuning-With-Custom-Data-Using-Google-Gemma/blob/main/source/cover%20pic.jpeg" height = 300 width = 500/>](https://github.com/sujikathir/Finetuning-With-Custom-Data-Using-Google-Gemma) |
 
+| ⛁ [Nutritionist-Generative-AI-Doctor](https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/tree/main) | [Multi-Language-Invoice-Extractor](https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model) | 
+| :-:| :-:| 
+[<img src = "https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Nutritionist-Generative-AI-Doctor-Using-Google-Gemini-Pro-Vision/tree/main)| [<img src="https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Multi-Language-Invoice-Extractor-using-Gemini-Pro-LLM-Model) |
 
+| ⛁ [Youtube-Video-Transcribe-Summarizer-LLM-App](https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro) | [Resume-Application-Tracking-System-ATS](https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision) | 
+| :-:| :-:| 
+[<img src = "https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro)| [<img src="https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Resume-Application-Tracking-System-ATS-Using-Google-Gemini-Pro-Vision) |
 
+| ⛁ [Document-QA](https://github.com/sujikathir/Document-Q-A-With-Google-Gemma) | [Chat-with-multiple-PDF-Documents](https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro) | 
+| :-:| :-:| 
+[<img src = "https://github.com/sujikathir/Document-Q-A-With-Google-Gemma/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Document-Q-A-With-Google-Gemma)| [<img src="https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro/blob/main/source/cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Chat-With-multiple-Pdf-Documents-with-Langchain-and-Google-Gemini-Pro) |
 
+<hr style="border:0.01px solid blue">
 
+<h2 align = "center"> 🖥 My AWS Projects</h2> 
 
+| ⛁ [Create-Database-and-Tables-using-Athena](https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena)| 💻 [Using-AWS-S3-for-Data-Storage](https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage) | 
+| :-:| :-:| 
+| [<img src = "https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena/blob/main/source/Cover%20pic.png" height = 300 width = 500/>](https://github.com/sujikathir/Create-a-Database-and-Tables-using-Athena/tree/main)| [<img src="https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage/blob/main/s3/images/cover%20page.png" height = 300 width = 500/>](https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage)|
 
+<h2 align = "center"> 🖥 My Technical Blogs </h2> 
 
+&emsp;&emsp; 📃 [__Demystifying P-Values: A Guide for Non-Technical Stakeholders__](https://medium.com/@sujithra-kathiravan/demystifying-p-values-a-guide-for-non-technical-stakeholders-fc45c854f2ca)
 
-# 🖥 My Machine Learning Projects
+&emsp;&emsp; 📃 [__Understanding Type I and Type II Errors in Hypothesis Testing: A Data Scientist’s Perspective__](https://medium.com/@sujithra-kathiravan/understanding-type-i-and-type-ii-errors-in-hypothesis-testing-a-data-scientists-perspective-2e508b2d50c1)
+
+&emsp;&emsp; 📃 [__Head start your Machine Learning Journey!🚀__](https://medium.com/@sujithra-kathiravan/head-start-your-machine-learning-journey-c4f96735d8e3)
+
+&emsp;&emsp; 📃 [__All about Data Preprocessing__](https://medium.com/@sujithra-kathiravan/all-about-data-preprocessing-7ec219b39e5e)
+
+# Socials
+
+<p align="left"> <a href="https://github.com/Shankar-Gurjar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/shankargurjar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
 
 
   
