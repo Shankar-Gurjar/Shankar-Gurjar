@@ -68,6 +68,130 @@ I have a strong practical and theoretical experience in the development of Large
 
 These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
 
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />        
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" />  
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />            
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+<img align = "left" alt = "Java" width = "60px" style = "pading-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+
+
+  
+          
+
+
+
+
+
+
+      
+          
+
+ 
+          
+
+      
+          
+
+
+    
+          
+
+
+        
+          
+
+
+    
+          
+
+
+         
+          
+
+
+        
+          
+
+
+      
+          
+
+
+
+      
+          
+
+  
+          
+
+
+
+   
+          
+
+
+           
+          
+
+
+            
+          
+
+
+          
+
+
+
+
+
+
+
+
+
+       
+          
+
+
+
+          
+
+
+
+
+        
+          
+
+
+
+          
+
+
+         
+          
+
+          
+
 
 
 
