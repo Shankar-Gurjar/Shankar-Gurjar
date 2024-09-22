@@ -126,7 +126,7 @@ The following links include detailed descriptions within each GitHub repository:
 
 | 🏭 [Credit Card Fraud Detaction using machine learning ](https://github.com/Shankar-Gurjar/Fraud-Detection)| [☎️ _Diabetes Prediction- Using Random forest__](https://github.com/Shankar-Gurjar/Diabetes_Prediction)|
 | :-:| :-:| 
-| [<img src = "fraud.png" width = 500 height = 300/>](https://github.com/Shankar-Gurjar/Fraud-Detection)| [<img src = "https://github.com/sujikathir/Telco-Customer-Churn-Prediction/blob/main/Images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
+| [<img src = "fraud.png" width = 500 height = 300/>](https://github.com/Shankar-Gurjar/Fraud-Detection)| [<img src = "dia.png" width = 500 height = 300/>]([https://github.com/sujikathir/Telco-Customer-Churn-Prediction](https://github.com/Shankar-Gurjar/Diabetes_Prediction))|
 
 <hr style="border:0.01px solid blue">
 
