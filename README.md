@@ -64,10 +64,12 @@ I have a strong practical and theoretical experience in the development of Large
 * GPT - 3.5 (LLM)
 * GPT - 4 (LLM)
 
+  
+
 # 🪚🔧 My Skills 😀😀:
 
 
-Programming Languages
+**Programming Languages**
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />Python</a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" />R</a>
@@ -75,14 +77,14 @@ Programming Languages
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-java.svg" width="44" height="44" alt="Java" />Java</a>
 </p>
 
-Databases
+**Databases**
 <p align="left">
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/mysql-official.svg" width="36" height="36" alt="MySQL" />MySQL</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />MongoDB</a>
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/snowflake-icon.svg" width="36" height="36" alt="SnowFlake" />SnowFlake</a>
 </p>
 
-Python Frameworks for Data Science
+**Python Frameworks for Data Science**
 <p align="left">
 <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-numpy.svg" width="36" height="36" alt="Numpy" />Numpy</a>
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-pandas.svg" width="36" height="36" alt="Pandas" />Pandas</a>
@@ -95,7 +97,7 @@ Python Frameworks for Data Science
 <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/seaborn.svg" width="36" height="36" alt="Seaborn" />Seaborn</a>
 </p>
 
-Toolkits/Frameworks
+**Toolkits/Frameworks**
 <p align="left">
 <a href="https://airflow.apache.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/airflow.svg" width="36" height="36" alt="Apache Airflow" />Apache Airflow</a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/apache_kafka-icon.svg" width="36" height="36" alt="Apache Kafka" />Apache Kafka</a>
@@ -105,7 +107,7 @@ Toolkits/Frameworks
 <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-tableau-software.svg" width="36" height="36" alt="Tableau" />Tableau</a>
 </p>
 
-Data Engineering
+**Data Engineering**
 <p align="left">
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-selenium.svg" width="36" height="36" alt="Selenium" />Selenium</a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-bash.svg" width="36" height="36" alt="Shell Scripting" />Shell Scripting</a>
@@ -113,6 +115,7 @@ Data Engineering
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-statistics-96.png" width="36" height="36" alt="Data Analysis" />Data Analysis</a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/data wragling.png" width="36" height="36" alt="Data Wrangling" />Data Wrangling</a>
 </p>
+
 
 
 
@@ -171,6 +174,8 @@ The following links include detailed descriptions within each GitHub repository:
 &emsp;&emsp; 📃 [__Head start your Machine Learning Journey!🚀__](https://medium.com/@sujithra-kathiravan/head-start-your-machine-learning-journey-c4f96735d8e3)
 
 &emsp;&emsp; 📃 [__All about Data Preprocessing__](https://medium.com/@sujithra-kathiravan/all-about-data-preprocessing-7ec219b39e5e)
+
+
 
 # Socials
 
