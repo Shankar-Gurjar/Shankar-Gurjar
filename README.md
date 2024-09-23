@@ -137,9 +137,9 @@ The following links include detailed descriptions within each GitHub repository:
 
 <h2 align = "center"> 🖥 My Generative AI Projects </h2> 
 
-| ⛁ [AI-driven-Chatbot-for-question-answering](https://github.com/Shankar-Gurjar/AI_driven_chatbot_for_question_answering_system) | [Text-to-SQL-LLM-App-for-Quering-SQL](https://github.com/sujikathir/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro) | 
+| ⛁ [AI-driven-Chatbot-for-question-answering](https://github.com/Shankar-Gurjar/AI_driven_chatbot_for_question_answering_system) | [Text-to-SQL-LLM-App-for-Quering-SQL](https://github.com/Shankar-Gurjar/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro) | 
 | :-:| :-:| 
-[<img src = "https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/blob/main/source/cover%20page.jpg" height = 300 width = 500/>]([https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/tree/main](https://github.com/Shankar-Gurjar/AI_driven_chatbot_for_question_answering_system))| [<img src="https://github.com/sujikathir/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/sujikathir/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro) |
+[<img src = "https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/blob/main/source/cover%20page.jpg" height = 300 width = 500/>]([https://github.com/sujikathir/Ai-driven-Chatbot-for-enhanced-question-answering-system/tree/main](https://github.com/Shankar-Gurjar/AI_driven_chatbot_for_question_answering_system))| [<img src="https://github.com/sujikathir/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro/blob/main/source/cover%20pic.jpg" height = 300 width = 500/>](https://github.com/Shankar-Gurjar/Text-to-SQL-LLM-App-along-with-Quering-SQL-database-using-Gemini-Pro) |
 
 | ⛁ [News-Reporter-AI-Agent-Using-CrewAI](https://github.com/sujikathir/News-Reporter-AI-Agent-Using-CrewAI) | [Finetuning-With-Custom-Data](https://github.com/sujikathir/Finetuning-With-Custom-Data-Using-Google-Gemma) | 
 | :-:| :-:| 
